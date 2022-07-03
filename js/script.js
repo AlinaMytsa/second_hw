@@ -1,16 +1,18 @@
+'use strict';
 // task1
-let name = "John";
-let admin = name;
+let admin;
+const name = "John";
+admin = name;
 alert(admin);
 
 // task2
-let object = "Earth";
-let user = "username";
+const object = "Earth";
+const user = "username";
 
 // task3
-let str = "10";
+// let str = "10";
 let number = 10;
 
-console.log(typeof (str));
+console.log(typeof (number));
 
 console.log(typeof (number));
