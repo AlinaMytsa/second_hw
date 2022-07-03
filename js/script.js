@@ -10,9 +10,7 @@ const object = "Earth";
 const user = "username";
 
 // task3
-// let str = "10";
+let str = "10";
 let number = 10;
 
-console.log(typeof (number));
-
-console.log(typeof (number));
+console.log(str + number)
